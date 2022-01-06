@@ -1,0 +1,4 @@
+afj74515.water 99.6 
+abc02289.water 99.6 
+abb80230.water 99.2 
+abb80186.water 98.8 
