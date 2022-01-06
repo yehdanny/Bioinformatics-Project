@@ -1,0 +1,80 @@
+########################################
+# Program: needle
+# Rundate: Thu  6 Jan 2022 15:53:26
+# Commandline: needle
+#    -asequence agj72861.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: agj72861.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AGJ72861
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 574
+# Identity:     247/574 (43.0%)
+# Similarity:   357/574 (62.2%)
+# Gaps:          21/574 ( 3.7%)
+# Score: 1197.0
+# 
+#
+#=======================================
+
+AGJ72861           1 MNTQILVFALIAIIPTNADKICLGHHAVSNGTKVNTLTERGGEVVNATET     50
+                     |...:|:.|:|:::  .:|:||:|:||.::..:|:|:.|:...|.:|.:.
+H5N1               1 MEKIVLLLAVISLV--KSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDI     48
+
+AGJ72861          51 VERTNIPRICS-KGKKTVDLGQGGPRGTITGPPQCDQFL---EFSADLIM     96
+                     :|:|:..::|. .|.|.:.|......|.:.|.|.||:|:   |:|  .|:
+H5N1              49 LEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWS--YIV     96
+
+AGJ72861          97 ER-REGSDVCYPGKFVNEEALRQILRESGGIDKEAM--GFTYSGIRTN-G    142
+                     || ...:|:||||...:.|.|:.:|......:|..:  ..::....|: |
+H5N1              97 ERANPANDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLG    146
+
+AGJ72861         143 ATSACRRSG-SSFYAEMKWLLSNTDNAAFPQMTKSYKNTRKSPALIVWGI    191
+                     .::||...| |||:..:.||:...|  |:|.:..||.||.:...||:|||
+H5N1             147 VSAACPYQGASSFFRNVVWLIKKND--AYPTIKISYNNTNREDLLILWGI    194
+
+AGJ72861         192 HHSVSTAEQTKLYGSGNKLVTVGSSNYQQSFVPSPGARPQVNGQSGRIDF    241
+                     |||.:.||||.||.:.:..|:||:|...|..||....|.||||||||:||
+H5N1             195 HHSNNAAEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDF    244
+
+AGJ72861         242 HWLMLNPNDTVTFSFNGAFIAPDRASFL--RGKSMGIQSGVQVDANCEGD    289
+                     .|.:|.|||.:.|..||.||||:.|..:  :|.|..::|.::. .:|...
+H5N1             245 FWTILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSEMEY-GHCNTK    293
+
+AGJ72861         290 CYHSGGTIISNLPFQNIDSRAVGKCPRYVKQRSLLLATGMKNVP--EIPK    337
+                     |....|.|.|::||.||....:|:||:|||...|:||||::|.|  |..:
+H5N1             294 CQTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRR    343
+
+AGJ72861         338 GRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQI    387
+                     .||||||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:
+H5N1             344 KRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGV    393
+
+AGJ72861         388 TGKLNRLIEKTNQQFELIDNEFNEVEKQIGNVINWTRDSITEVWSYNAEL    437
+                     |.|:|.:|:|.|.|||.:..|||.:|::|.|:.....|...:||:|||||
+H5N1             394 TNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAEL    443
+
+AGJ72861         438 LVAMENQHTIDLADSEMDKLYERVKRQLRENAEEDGTGCFEIFHKCDDDC    487
+                     ||.|||:.|:|..||.:..||::|:.|||:||:|.|.||||.:||||::|
+H5N1             444 LVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNEC    493
+
+AGJ72861         488 MASIRNNTYDHSKYREEAMQNRIQIDPVKLSS-GYKDVILWFSFGASCFI    536
+                     |.|:||.|||:.||.|||:..|.:|..|||.| |...::..:|..||...
+H5N1             494 MESVRNGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLA    543
+
+AGJ72861         537 LLAIVMGLVFICVKNGNMRCTICI    560
+                     |..||.||......||:::|.|||
+H5N1             544 LAIIVAGLSLWMCSNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------

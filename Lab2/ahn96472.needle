@@ -1,0 +1,80 @@
+########################################
+# Program: needle
+# Rundate: Thu  6 Jan 2022 15:53:26
+# Commandline: needle
+#    -asequence ahn96472.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: ahn96472.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AHN96472
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 574
+# Identity:     248/574 (43.2%)
+# Similarity:   359/574 (62.5%)
+# Gaps:          21/574 ( 3.7%)
+# Score: 1214.0
+# 
+#
+#=======================================
+
+AHN96472           1 MNTQILVFALIAIIPTNADKICLGHHAVSNGTKVNTLTERGVEVVNATET     50
+                     |...:|:.|:|:::  .:|:||:|:||.::..:|:|:.|:.|.|.:|.:.
+H5N1               1 MEKIVLLLAVISLV--KSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDI     48
+
+AHN96472          51 VERTNIPRICS-KGKKTVDLGQCGLLGTITGPPQCDQFL---EFSADLII     96
+                     :|:|:..::|. .|.|.:.|..|.:.|.:.|.|.||:|:   |:|  .|:
+H5N1              49 LEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWS--YIV     96
+
+AHN96472          97 ER-REGSDVCYPGKFVNEEALRQILRESGGIDKEAM--GFTYSGIRTN-G    142
+                     || ...:|:||||...:.|.|:.:|......:|..:  ..::....|: |
+H5N1              97 ERANPANDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLG    146
+
+AHN96472         143 ATSACRRSG-SSFYAEMKWLLSNTDNAAFPQMTKSYKNTRKSPALIVWGI    191
+                     .::||...| |||:..:.||:...|  |:|.:..||.||.:...||:|||
+H5N1             147 VSAACPYQGASSFFRNVVWLIKKND--AYPTIKISYNNTNREDLLILWGI    194
+
+AHN96472         192 HHSVSTAEQTKLYGSGNKLVTVGSSNYQQSFVPSPGARPQVNGLSGRIDF    241
+                     |||.:.||||.||.:.:..|:||:|...|..||....|.||||.|||:||
+H5N1             195 HHSNNAAEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDF    244
+
+AHN96472         242 HWLMLNPNDTVTFSFNGAFIAPDRASFL--RGKSMGIQSGVQVDANCEGD    289
+                     .|.:|.|||.:.|..||.||||:.|..:  :|.|..::|.::. .:|...
+H5N1             245 FWTILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSEMEY-GHCNTK    293
+
+AHN96472         290 CYHSGGTIISNLPFQNIDSRAVGKCPRYVKQKSLLLATGMKNVP--EIPK    337
+                     |....|.|.|::||.||....:|:||:|||...|:||||::|.|  |..:
+H5N1             294 CQTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRR    343
+
+AHN96472         338 GRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQI    387
+                     .||||||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:
+H5N1             344 KRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGV    393
+
+AHN96472         388 TGKLNRLIEKTNQQFELIDNEFNEVEKQIGNVINWTRDSITEVWSYNAEL    437
+                     |.|:|.:|:|.|.|||.:..|||.:|::|.|:.....|...:||:|||||
+H5N1             394 TNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAEL    443
+
+AHN96472         438 LVAMENQHTIDLADSEMDKLYERVKRQLRENAEEDGTGCFEIFHKCDDDC    487
+                     ||.|||:.|:|..||.:..||::|:.|||:||:|.|.||||.:||||::|
+H5N1             444 LVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNEC    493
+
+AHN96472         488 MASIRNNTYDHSKYREEAMQNRIQIDPVKLSS-GYKDVILWFSFGASCFI    536
+                     |.|:||.|||:.||.|||:..|.:|..|||.| |...::..:|..||...
+H5N1             494 MESVRNGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLA    543
+
+AHN96472         537 LLAIVMGLVFICVKNGNMRCTICI    560
+                     |..||.||......||:::|.|||
+H5N1             544 LAIIVAGLSLWMCSNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------

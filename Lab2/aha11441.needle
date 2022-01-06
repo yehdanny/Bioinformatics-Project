@@ -1,0 +1,80 @@
+########################################
+# Program: needle
+# Rundate: Thu  6 Jan 2022 15:53:26
+# Commandline: needle
+#    -asequence aha11441.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: aha11441.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AHA11441
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 573
+# Identity:     247/573 (43.1%)
+# Similarity:   351/573 (61.3%)
+# Gaps:          19/573 ( 3.3%)
+# Score: 1214.0
+# 
+#
+#=======================================
+
+AHA11441           1 MNTQILALIACMLIGAKGDKICLGHHAVANGTKVNTLTERGIEVVNATET     50
+                     |...:|.|....|:  |.|:||:|:||..:..:|:|:.|:.:.|.:|.:.
+H5N1               1 MEKIVLLLAVISLV--KSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDI     48
+
+AHA11441          51 VETANIKKIC-TQGKRPTDLGQCGLLGTLIGPPQCDQFLEF-DADLIIER     98
+                     :|..:..|:| ..|.:|..|..|.:.|.|:|.|.||:|:.. :...|:||
+H5N1              49 LEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWSYIVER     98
+
+AHA11441          99 -REGTDVCYPGKFTNEESLRQILRGSGGIDKESM--GFTYSGIRTN-GAT    144
+                      ....|:||||...:.|.|:.:|......:|..:  ..::....|: |.:
+H5N1              99 ANPANDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLGVS    148
+
+AHA11441         145 SACRRSG-SSFYAEMKWLLSNSNNAAFPQMTKSYRNPRNKPALIVWGVHH    193
+                     :||...| |||:..:.||:  ..|.|:|.:..||.|...:..||:||:||
+H5N1             149 AACPYQGASSFFRNVVWLI--KKNDAYPTIKISYNNTNREDLLILWGIHH    196
+
+AHA11441         194 SGSATEQTKLYGSGSKLITVGSSKYQQSFTPSPGARPQVNGQSGRIDFHW    243
+                     |.:|.|||.||.:....::||:|...|...|....|.||||||||:||.|
+H5N1             197 SNNAAEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDFFW    246
+
+AHA11441         244 LLLDPNDTVTFTFNGAFIAPDRASFF--RGESLGVQSDVPLDSG-CEGDC    290
+                     .:|.|||.:.|..||.||||:.|...  :|:|..::|:  ::.| |...|
+H5N1             247 TILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSE--MEYGHCNTKC    294
+
+AHA11441         291 FHKGGTIVSSLPFQNINPRTVGKCPRYVKQTSLLLATGMRNVP--ENPKT    338
+                     ....|.|.||:||.||:|.|:|:||:|||...|:||||:||.|  |..:.
+H5N1             295 QTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRRK    344
+
+AHA11441         339 RGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQIT    388
+                     ||||||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:|
+H5N1             345 RGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGVT    394
+
+AHA11441         389 GKLNRLIDKTNQQFELIDNEFSEIEQQIGNVINWTRDSMTEIWSYNAELL    438
+                     .|:|.:|||.|.|||.:..||:.:|::|.|:.....|...::|:||||||
+H5N1             395 NKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELL    444
+
+AHA11441         439 VAMENQHTIDLADSEMNKLYERVRKQLRENAEEDGTGCFEIFHKCDDQCM    488
+                     |.|||:.|:|..||.:..||::||.|||:||:|.|.||||.:||||::||
+H5N1             445 VLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECM    494
+
+AHA11441         489 ESIRNNTYDHTQYRAESLQNRIQIDPVKLSS-GYKDIILWFSFGASCFLL    537
+                     ||:||.|||:.:|..|::..|.:|..|||.| |...|:..:|..||...|
+H5N1             495 ESVRNGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLAL    544
+
+AHA11441         538 LAIAMGLVFICIKNGNMRCTICI    560
+                     ..|..||......||:::|.|||
+H5N1             545 AIIVAGLSLWMCSNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------

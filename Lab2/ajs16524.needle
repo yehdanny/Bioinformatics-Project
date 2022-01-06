@@ -1,0 +1,80 @@
+########################################
+# Program: needle
+# Rundate: Thu  6 Jan 2022 15:53:26
+# Commandline: needle
+#    -asequence ajs16524.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: ajs16524.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AJS16524
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 574
+# Identity:     246/574 (42.9%)
+# Similarity:   356/574 (62.0%)
+# Gaps:          22/574 ( 3.8%)
+# Score: 1202.5
+# 
+#
+#=======================================
+
+AJS16524           1 -VTSILVFALIAIIPTNADKICLGHHAVSNGTKVNTLTERGVEVVNATET     49
+                      ...:|:.|:|:::  .:|:||:|:||.::..:|:|:.|:.|.|.:|.:.
+H5N1               1 MEKIVLLLAVISLV--KSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDI     48
+
+AJS16524          50 VERTNIPRICS-KGKRTVDLGQCGLLGTITGPPQCDQFL---EFSADLII     95
+                     :|:|:..::|. .|.:.:.|..|.:.|.:.|.|.||:|:   |:|  .|:
+H5N1              49 LEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWS--YIV     96
+
+AJS16524          96 ER-REGSDVCYPGKFVNEEALRQILRESGGIDKEAM---GFTYNGIRTNG    141
+                     || ...:|:||||...:.|.|:.:|......:|..:   ....|...:.|
+H5N1              97 ERANPANDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLG    146
+
+AJS16524         142 VTSACKRSG-SSFYAEMKWLLSNTDNAAFPQMTKSYKNTRKSPAIIVWGI    190
+                     |::||...| |||:..:.||:...|  |:|.:..||.||.:...:|:|||
+H5N1             147 VSAACPYQGASSFFRNVVWLIKKND--AYPTIKISYNNTNREDLLILWGI    194
+
+AJS16524         191 HHSVSTAEQTKLYGSGNKLVTVGSSNYQQSFVPSPGARPQVNGLSGRIDF    240
+                     |||.:.||||.||.:.:..|:||:|...|..||....|.||||.|||:||
+H5N1             195 HHSNNAAEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDF    244
+
+AJS16524         241 HWLMLNPNDTVTFSFNGAFIAPDRASFL--RGKSMGIQSGVQVDANCEGD    288
+                     .|.:|.|||.:.|..||.||||:.|..:  :|.|..::|.::. .:|...
+H5N1             245 FWTILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSEMEY-GHCNTK    293
+
+AJS16524         289 CYHSGGTIISNLPFQNIDSRAVGKCPRYVKQRSLLLATGMKNVP--EIPK    336
+                     |....|.|.|::||.||....:|:||:|||...|:||||::|.|  |..:
+H5N1             294 CQTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRR    343
+
+AJS16524         337 GRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQI    386
+                     .||||||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:
+H5N1             344 KRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGV    393
+
+AJS16524         387 TGKLNRLIAKTNQQFELIDNEFNEVEKQIGNVINWTRDSITEVWSYNAEL    436
+                     |.|:|.:|.|.|.|||.:..|||.:|::|.|:.....|...:||:|||||
+H5N1             394 TNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAEL    443
+
+AJS16524         437 LVAMENQHTIDLADSEMDKLYERVKRQLRENAEEDGTGCFEIFHKCDDDC    486
+                     ||.|||:.|:|..||.:..||::|:.|||:||:|.|.||||.:||||::|
+H5N1             444 LVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNEC    493
+
+AJS16524         487 MASIRNNTYDHRKYREEAMQNRIQIDPVKLSS-GYKDVILWFSFGASCFI    535
+                     |.|:||.|||:.||.|||:..|.:|..|||.| |...::..:|..||...
+H5N1             494 MESVRNGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLA    543
+
+AJS16524         536 LLAIVMGLVFICVKNGNMRCTICI    559
+                     |..||.||......||:::|.|||
+H5N1             544 LAIIVAGLSLWMCSNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,80 @@
+########################################
+# Program: water
+# Rundate: Thu  6 Jan 2022 15:53:26
+# Commandline: water
+#    -asequence ahz42537.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: ahz42537.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AHZ42537
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 569
+# Identity:     247/569 (43.4%)
+# Similarity:   353/569 (62.0%)
+# Gaps:          21/569 ( 3.7%)
+# Score: 1217.0
+# 
+#
+#=======================================
+
+AHZ42537           5 ILAFIACMLVGAKGDKICLGHHAVANGTKVNTLTERGIEVVNATETVETA     54
+                     :||.|:.:    |.|:||:|:||..:..:|:|:.|:.:.|.:|.:.:|..
+H5N1               7 LLAVISLV----KSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDILEKT     52
+
+AHZ42537          55 NIKKLC-TQGKRPTDLGQCGLLGTLIGPPQCDQFLEF-DADLIIER-REG    101
+                     :..||| ..|.:|..|..|.:.|.|:|.|.||:|:.. :...|:|| ...
+H5N1              53 HNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWSYIVERANPA    102
+
+AHZ42537         102 TDVCYPGKFTNEESLRQILRGSGGIDKESM--GFTYSGIRTN-GATSACR    148
+                     .|:||||...:.|.|:.:|......:|..:  ..::....|: |.::||.
+H5N1             103 NDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLGVSAACP    152
+
+AHZ42537         149 RSG-SSFYAEMKWLLSNSDNAAFPQMTKSYRNPRNKPALIIWGVHHSGSA    197
+                     ..| |||:..:.||:..:|  |:|.:..||.|...:..||:||:|||.:|
+H5N1             153 YQGASSFFRNVVWLIKKND--AYPTIKISYNNTNREDLLILWGIHHSNNA    200
+
+AHZ42537         198 TEQTKLYGSGNKLITVGSSKYQQSFTPSPGARPQVNGQSGRIDFHWLLLD    247
+                     .|||.||.:.:..::||:|...|...|....|.||||||||:||.|.:|.
+H5N1             201 AEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDFFWTILK    250
+
+AHZ42537         248 PNDTVTFTFNGAFIAPDRASFF--RGESLGVQSDVPLDSG-CEGDCFHSG    294
+                     |||.:.|..||.||||:.|...  :|:|..::|:  ::.| |...|....
+H5N1             251 PNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSE--MEYGHCNTKCQTPI    298
+
+AHZ42537         295 GTIVSSLPFQNINPRTVGKCPRYVKQTSLLLATGMRNVP--ENPKTRGLF    342
+                     |.|.||:||.||:|.|:|:||:|||...|:||||:||.|  |..:.||||
+H5N1             299 GAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRRKRGLF    348
+
+AHZ42537         343 GAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQITGKLN    392
+                     ||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:|.|:|
+H5N1             349 GAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGVTNKVN    398
+
+AHZ42537         393 RLIDKTNQQFELIDNEFSEIEQQIGNVINWTRDSMTELWSYNAELLVAME    442
+                     .:|||.|.|||.:..||:.:|::|.|:.....|...::|:|||||||.||
+H5N1             399 SIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLME    448
+
+AHZ42537         443 NQHTIDLADSEMNKLYERVRKQLRENAEEDGTGCFEIFHKCDDQCMESIR    492
+                     |:.|:|..||.:..||::||.|||:||:|.|.||||.:||||::||||:|
+H5N1             449 NERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESVR    498
+
+AHZ42537         493 NNTYDHTQYRTESLQNRIQIDPVKLSS-GYKDIILWFSFGASCFLLLAIA    541
+                     |.|||:.:|..|::..|.:|..|||.| |...|:..:|..||...|..|.
+H5N1             499 NGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLALAIIV    548
+
+AHZ42537         542 MGLVFICIKNGNMRCTICI    560
+                     .||......||:::|.|||
+H5N1             549 AGLSLWMCSNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,80 @@
+########################################
+# Program: water
+# Rundate: Thu  6 Jan 2022 15:53:25
+# Commandline: water
+#    -asequence aay46211.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: aay46211.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AAY46211
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 575
+# Identity:     247/575 (43.0%)
+# Similarity:   361/575 (62.8%)
+# Gaps:          23/575 ( 4.0%)
+# Score: 1216.0
+# 
+#
+#=======================================
+
+AAY46211           1 MNTQILVFALVAIIPINADKICLGHHAVSNGTKVNTLTERGVEVVNATET     50
+                     |...:|:.|::::  :.:|:||:|:||.::..:|:|:.|:.|.|.:|.:.
+H5N1               1 MEKIVLLLAVISL--VKSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDI     48
+
+AAY46211          51 VERTNVPRICS-RGKRTVDLGQCGLLGTITGPPQCDQFL---EFSADLII     96
+                     :|:|:..::|. .|.:.:.|..|.:.|.:.|.|.||:|:   |:|  .|:
+H5N1              49 LEKTHNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWS--YIV     96
+
+AAY46211          97 ER-REGSDVCYPGKFVNEEALRQILRESGGIDKETM--GFTYSGIRTN-G    142
+                     || ...:|:||||...:.|.|:.:|......:|..:  ..::....|: |
+H5N1              97 ERANPANDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLG    146
+
+AAY46211         143 APSACRRSG-SSFYAEMKWLLSNTDNAAFPQMTKSYKNTRNDPALIIWGI    191
+                     ..:||...| |||:..:.||:...|  |:|.:..||.||..:..||:|||
+H5N1             147 VSAACPYQGASSFFRNVVWLIKKND--AYPTIKISYNNTNREDLLILWGI    194
+
+AAY46211         192 HHSGSTTEQTKLYGSGNKLITVGSSNYQQSFVPSPGARPQVNGQSGRIDF    241
+                     |||.:..|||.||.:.:..::||:|...|..||....|.||||||||:||
+H5N1             195 HHSNNAAEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDF    244
+
+AAY46211         242 HWLILNPNDTVTFSFNGAFIAPDRASFL--RGKSMGIQSGVQIDANCEGD    289
+                     .|.||.|||.:.|..||.||||:.|..:  :|.|..::|.::. .:|...
+H5N1             245 FWTILKPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSEMEY-GHCNTK    293
+
+AAY46211         290 CYHSGGTIISNLPFQNINSRAVGKCPRYVKQESLLLATGMKNVP--EIPK    337
+                     |....|.|.|::||.||:...:|:||:|||...|:||||::|.|  |..:
+H5N1             294 CQTPIGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRR    343
+
+AAY46211         338 GRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQI    387
+                     .||||||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:
+H5N1             344 KRGLFGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGV    393
+
+AAY46211         388 TGKLNRLIEKTNQQFELIDNEFTEVEKQIGNVINWTRDSMTEVWSYNAEL    437
+                     |.|:|.:|:|.|.|||.:..||..:|::|.|:.....|...:||:|||||
+H5N1             394 TNKVNSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAEL    443
+
+AAY46211         438 LVAMENQHTIDLADSEMNKLYERVRRQLRENAEEDGTGCFEIFHKCDDDC    487
+                     ||.|||:.|:|..||.:..||::||.|||:||:|.|.||||.:||||::|
+H5N1             444 LVLMENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNEC    493
+
+AAY46211         488 MASIRNNTYDHSKYREEAMQNRIQIDPVKLSS-GYKDVILWFSFGASCFI    536
+                     |.|:||.|||:.||.|||:..|.:|..|||.| |...::..:|..||...
+H5N1             494 MESVRNGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLA    543
+
+AAY46211         537 LLAIAMGL-VFMCVKNGNMRCTICI    560
+                     |..|..|| ::|| .||:::|.|||
+H5N1             544 LAIIVAGLSLWMC-SNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------

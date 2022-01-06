@@ -1,0 +1,80 @@
+########################################
+# Program: water
+# Rundate: Thu  6 Jan 2022 15:53:26
+# Commandline: water
+#    -asequence aha11441.fasta
+#    -bsequence test.fas
+#    -auto
+# Align_format: srspair
+# Report_file: aha11441.water
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AHA11441
+# 2: H5N1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 570
+# Identity:     246/570 (43.2%)
+# Similarity:   353/570 (61.9%)
+# Gaps:          18/570 ( 3.2%)
+# Score: 1214.5
+# 
+#
+#=======================================
+
+AHA11441           4 QILALIACMLIGAKGDKICLGHHAVANGTKVNTLTERGIEVVNATETVET     53
+                     :|:.|:|.:.: .|.|:||:|:||..:..:|:|:.|:.:.|.:|.:.:|.
+H5N1               3 KIVLLLAVISL-VKSDQICIGYHANNSTKQVDTIMEKNVTVTHAQDILEK     51
+
+AHA11441          54 ANIKKIC-TQGKRPTDLGQCGLLGTLIGPPQCDQFLEF-DADLIIER-RE    100
+                     .:..|:| ..|.:|..|..|.:.|.|:|.|.||:|:.. :...|:|| ..
+H5N1              52 THNGKLCDLNGVKPLILKDCSVAGWLLGNPMCDEFIRVPEWSYIVERANP    101
+
+AHA11441         101 GTDVCYPGKFTNEESLRQILRGSGGIDKESM--GFTYSGIRTN-GATSAC    147
+                     ..|:||||...:.|.|:.:|......:|..:  ..::....|: |.::||
+H5N1             102 ANDLCYPGTLNDYEELKHLLSRINHFEKTLIIPRSSWPNHETSLGVSAAC    151
+
+AHA11441         148 RRSG-SSFYAEMKWLLSNSNNAAFPQMTKSYRNPRNKPALIVWGVHHSGS    196
+                     ...| |||:..:.||:  ..|.|:|.:..||.|...:..||:||:|||.:
+H5N1             152 PYQGASSFFRNVVWLI--KKNDAYPTIKISYNNTNREDLLILWGIHHSNN    199
+
+AHA11441         197 ATEQTKLYGSGSKLITVGSSKYQQSFTPSPGARPQVNGQSGRIDFHWLLL    246
+                     |.|||.||.:....::||:|...|...|....|.||||||||:||.|.:|
+H5N1             200 AAEQTNLYKNPDTYVSVGTSTLNQRLVPKIATRSQVNGQSGRMDFFWTIL    249
+
+AHA11441         247 DPNDTVTFTFNGAFIAPDRASFF--RGESLGVQSDVPLDSG-CEGDCFHK    293
+                     .|||.:.|..||.||||:.|...  :|:|..::|:  ::.| |...|...
+H5N1             250 KPNDAIHFESNGNFIAPEYAYKIVKKGDSTIMKSE--MEYGHCNTKCQTP    297
+
+AHA11441         294 GGTIVSSLPFQNINPRTVGKCPRYVKQTSLLLATGMRNVP--ENPKTRGL    341
+                     .|.|.||:||.||:|.|:|:||:|||...|:||||:||.|  |..:.|||
+H5N1             298 IGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPLRERRRKRGL    347
+
+AHA11441         342 FGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQITGKL    391
+                     |||||||||.||:|::|||||:.|.|.||.|.|||.:|||.|||.:|.|:
+H5N1             348 FGAIAGFIEGGWQGMVDGWYGYHHSNEQGSGYAADKESTQKAIDGVTNKV    397
+
+AHA11441         392 NRLIDKTNQQFELIDNEFSEIEQQIGNVINWTRDSMTEIWSYNAELLVAM    441
+                     |.:|||.|.|||.:..||:.:|::|.|:.....|...::|:|||||||.|
+H5N1             398 NSIIDKMNTQFEAVGREFNNLERRIENLNKKMEDGFLDVWTYNAELLVLM    447
+
+AHA11441         442 ENQHTIDLADSEMNKLYERVRKQLRENAEEDGTGCFEIFHKCDDQCMESI    491
+                     ||:.|:|..||.:..||::||.|||:||:|.|.||||.:||||::||||:
+H5N1             448 ENERTLDFHDSNVKNLYDKVRLQLRDNAKELGNGCFEFYHKCDNECMESV    497
+
+AHA11441         492 RNNTYDHTQYRAESLQNRIQIDPVKLSS-GYKDIILWFSFGASCFLLLAI    540
+                     ||.|||:.:|..|::..|.:|..|||.| |...|:..:|..||...|..|
+H5N1             498 RNGTYDYPKYSEEAILKREKISGVKLESIGTYQILSIYSTVASSLALAII    547
+
+AHA11441         541 AMGLVFICIKNGNMRCTICI    560
+                     ..||......||:::|.|||
+H5N1             548 VAGLSLWMCSNGSLQCRICI    567
+
+
+#---------------------------------------
+#---------------------------------------
